@@ -185,6 +185,7 @@
     "ee-first": "^1.1.1",
     "ejs": "^3.1.10",
     "electron-to-chromium": "^1.5.13",
+    "emailjs-com": "^3.2.0",
     "emittery": "^0.8.1",
     "emoji-regex": "^9.2.2",
     "emojis-list": "^3.0.0",
@@ -704,6 +705,7 @@
     "static-eval": "^2.0.2",
     "statuses": "^2.0.1",
     "stop-iteration-iterator": "^1.0.0",
+    "string_decoder": "^1.3.0",
     "string-length": "^4.0.2",
     "string-natural-compare": "^3.0.1",
     "string-width": "^4.2.3",
@@ -715,7 +717,6 @@
     "string.prototype.trimend": "^1.0.8",
     "string.prototype.trimstart": "^1.0.8",
     "stringify-object": "^3.3.0",
-    "string_decoder": "^1.3.0",
     "strip-ansi": "^6.0.1",
     "strip-ansi-cjs": "^6.0.1",
     "strip-bom": "^4.0.0",
@@ -843,7 +844,6 @@
     "yargs-parser": "^20.2.9",
     "yocto-queue": "^0.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
